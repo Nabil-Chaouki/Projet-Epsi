@@ -1,38 +1,39 @@
-# Système de Gestion de Bibliothèque
+# Library Management System
 
-## 🎯 Objectif du Projet
-Développement d'une application web pour la gestion dynamique d'une bibliothèque, permettant une gestion efficace des livres, des membres et des emprunts.
+## 🎯 Project Objective
+Develop a web application for dynamic library management, enabling effective management of books, members, and borrowings. This is a supervised project for the second year to improve skills in Microsoft .NET, Azure, etc.
 
-## ⚙️ Technologies Utilisées
-- **Langage de Programmation:** ![C#](URL_to_C#_icon)
-- **Framework:** ASP.NET Core ![ASP.NET Core](URL_to_ASP.NET_Core_icon)
-- **Architecture:** MVC / n-tiers
+## ⚙️ Technologies Used
+- **Programming Language:** C# ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+- **Framework:** ASP.NET Core ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+- **Architecture:** MVC / N-tier
 - **ORM:** Entity Framework ![Entity Framework](URL_to_Entity_Framework_icon)
-- **Base de Données:** SQL Server ![SQL Server](URL_to_SQL_Server_icon)
-- **Front-end:** MVC
-- **Méthodologie de Travail:** Agile
+- **Database:** SQL Server ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
-## 🌟 Fonctionnalités Principales
-- **Gestion de Livres:** Ajout, visualisation, modification, suppression.
-- **Gestion des Emprunts:** Enregistrement, suivi, gestion des retours et retards.
-- **Gestion des Membres:** Enregistrement, suivi de l'historique d'emprunt.
-- **Recherche et Filtres:** Recherche avancée (titre, auteur, genre...).
-- **Rapports:** Statistiques sur l'utilisation de la bibliothèque.
-- **Interface Utilisateur:** Intuitive et facile à naviguer.
+- **Front-end:** Bootstrap ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- **Work Methodology:** Agile
 
-## 🔒 Sécurité et Authentification
-- Système d'authentification pour les bibliothécaires.
-- Gestion des rôles et permissions.
+## 🌟 Key Features
+- **Book Management:** Add, view, modify, delete.
+- **Borrowing Management:** Record, track, manage returns and delays.
+- **Member Management:** Registration, tracking borrowing history.
+- **Search and Filters:** Advanced search (title, author, genre, etc.).
+- **Reports:** Statistics on library usage.
+- **User Interface:** Intuitive and easy to navigate.
 
-## 🚀 Développement et Déploiement
-- Développement incrémental avec tests réguliers.
-- Contrôle de version avec Git.
-- Déploiement sur serveur après validation des tests.
+## 🔒 Security and Authentication
+- Authentication system for librarians.
+- Role and permission management.
 
-## 📚 Documentation et Formation
-- Documentation complète du code et des fonctionnalités.
-- Formation pour les utilisateurs finaux.
+## 🚀 Development and Deployment
+- Incremental development with regular testing.
+- Version control with Git.
+- Deployment on a server after test validation.
 
-## 🛠️ Maintenance et Support
-- Planification de la maintenance régulière.
-- Support technique post-déploiement.
+## 📚 Documentation and Training
+- Complete code documentation and feature descriptions.
+- Training for end users.
+
+## 🛠️ Maintenance and Support
+- Regular maintenance planning.
+- Post-deployment technical support.
