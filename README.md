@@ -7,7 +7,7 @@ Develop a web application for dynamic library management, enabling effective man
 - **Programming Language:** C# ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 - **Framework:** ASP.NET Core ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 - **Architecture:** MVC / N-tier
-- **ORM:** Entity Framework ![Entity Framework](URL_to_Entity_Framework_icon)
+- **ORM:** Entity Framework ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 - **Database:** SQL Server ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 - **Front-end:** Bootstrap ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
