@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\open_Innov.props" />
+</Project>
