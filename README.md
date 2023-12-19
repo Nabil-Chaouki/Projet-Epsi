@@ -1,7 +1,7 @@
 # Library Management System
 
 ## 🎯 Project Objective
-Develop a web application for dynamic library management, enabling effective management of books, members, and borrowings. This is a supervised project for the second year to improve skills in Microsoft .NET, Azure, etc.
+Develop a web application for dynamic library management, enabling effective management of books, members, and borrowings. This is a supervised project for the second year to improve skills in Microsoft .NET, Azure, etc Managaed by Nabil Chaouki 
 
 ## ⚙️ Technologies Used
 - **Programming Language:** C# ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
